@@ -2259,9 +2259,9 @@
 				width: 100%;
 			}
 
-		.image.round img {
+		/*.image.round img {
 			border-radius: 100%;
-		}
+		}*/
 
 		.image.left {
 			float: left;
@@ -2937,7 +2937,8 @@
 
 	#banner {
 		padding: 12em 0 10em 0;
-		background-image: url('../../images/banner.jpg');
+		/* use pic08 or pic07 according to future of the page*/
+		background-image: url('../../images/pic08.jpg');
 		background-size: cover;
 		background-position: top;
 		background-attachment: fixed;
